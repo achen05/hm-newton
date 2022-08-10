@@ -29,11 +29,15 @@ h1 {
 
 .title-svg {
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid white;
+  padding-bottom: 12px;
+  border-top: 1px solid white;
+  padding-top: 12px;
 }
 
 .global-container {
-  margin: 36px;
+  margin: 40px;
 }
 
 .display-title {
